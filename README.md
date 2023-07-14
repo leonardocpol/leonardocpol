@@ -4,8 +4,8 @@
   <br>
   <samp>
     Hola, soy Estefano! 👋
-    Politólogo<br>
-    :school: Pontificie Universidad Católica del Perú PUCP<br>
+    Politólogo. <br>
+    :school: Pontificia Universidad Católica del Perú PUCP<br>
     :sparkles: Favorite Tech: R, Python, SPSS, PowerBI ... <br>
     :notebook: Actualmente estoy aprendiendo SQL <br>
     :email:	estefano.pilco@pucp.edu.pe <br>
