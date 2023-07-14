@@ -4,7 +4,7 @@
   <br>
   <samp>
     Hola, soy Estefano! 👋
-    Politólogo. <br>
+    Estudiante de Ciencias Políticas en la Pontificia Universidad Católica del Perú. Como profesional, poseo un sólido dominio de los lenguajes de programación R y Python, utilizados para el análisis de datos y la manipulación de información. Además, cuento con experiencia en el manejo de software estadístico como SPSS, que me permite llevar a cabo análisis estadísticos y trabajar con datos de manera eficiente. Asimismo, tengo habilidades en el uso de Power BI, una herramienta de visualización de datos y análisis empresarial, que me permite crear informes interactivos y paneles de control para una mejor toma de decisiones. En cuanto a mi experiencia en el manejo de datos, he ampliado mis conocimientos mediante la participación en dos cursos de estadística específicamente orientados al análisis político. Además, he complementado mi formación realizando varios cursos de análisis estadístico en el Centro de Investigaciones Sociológicas, Económicas, Políticas y Antropológicas (CISEPA), así como a través de plataformas de aprendizaje en línea como Coursera. Estas experiencias han fortalecido mi capacidad para realizar análisis rigurosos y eficientes, aplicando técnicas estadísticas adecuadas y utilizando herramientas como R, Python, SPSS y Power BI de manera efectiva en el contexto del análisis de datos. En el ámbito del análisis de datos, he adquirido experiencia adicional en el procesamiento de lenguaje natural (NLP, por sus siglas en inglés) utilizando Python.<br>
     :school: Pontificia Universidad Católica del Perú PUCP<br>
     :sparkles: Programas: R, Python, SPSS, PowerBI ... <br>
     :notebook: Actualmente estoy aprendiendo SQL <br>
