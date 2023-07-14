@@ -12,11 +12,11 @@
     :briefcase: LinkedIn: https://www.linkedin.com/in/estefano-pilco-9152a7220/ <br>
     :notes: Niños del Cerro, Deerhunter, Chopin <br>
 
-### Github Stats
+### Github Stats 💻
 
 [![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
 
-### Github Repos
+### Github Repos 🛠
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
